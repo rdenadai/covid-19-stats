@@ -31,7 +31,7 @@ Download Firefox webdriver from https://github.com/mozilla/geckodriver/releases/
 
 #### 1. World data
 
-    Last run: 2020-07-04 12:29:20.356966
+    Last run: 2020-07-07 22:26:10.831417
 
 
     --------------------
@@ -202,10 +202,10 @@ Simple compilation of cases in Brazil.
 
 For the entire Brazil, as of today, we have the following numbers:
 
-    Mortality Rate     : 4.09 %
-    Total Death        : 63305
-    Confirmed Cases    : 1546007
-    Mortality Rate/Pop : 0.03012 %
+    Mortality Rate     : 3.99 %
+    Total Death        : 66891
+    Confirmed Cases    : 1675068
+    Mortality Rate/Pop : 0.03183 %
 
 
 ---
@@ -213,16 +213,16 @@ For the entire Brazil, as of today, we have the following numbers:
 But, the story can't be told by the entire country, one must take into account, each state of the federation. Let's show data for each state in the federation.
 
                    UF  Total Cases  Deaths  Mortality %  Population  Mortality/Pop %
-            São Paulo       310702   15694         5.05    45919049          0.03418
-       Rio de Janeiro       118956   10500         8.83    17264943          0.06082
-                Ceará       118311    6373         5.39     9132078          0.06979
-                 Pará       112531    5069         4.50     8602865          0.05892
-             Maranhão        88214    2153         2.44     7075181          0.03043
-                Bahia        82314    2001         2.43    14873064          0.01345
-             Amazonas        74537    2887         3.87     4144597          0.06966
-           Pernambuco        62362    5068         8.13     9557071          0.05303
-     Distrito Federal        53996     643         1.19     3015268          0.02132
-         Minas Gerais        53351    1110         2.08    21168791          0.00524
+            São Paulo       332708   16475         4.95    45919049          0.03588
+                Ceará       126142    6563         5.20     9132078          0.07187
+       Rio de Janeiro       124086   10881         8.77    17264943          0.06302
+                 Pará       118744    5169         4.35     8602865          0.06008
+             Maranhão        92088    2286         2.48     7075181          0.03231
+                Bahia        91954    2216         2.41    14873064          0.01490
+             Amazonas        79167    2952         3.73     4144597          0.07123
+           Pernambuco        66151    5234         7.91     9557071          0.05477
+     Distrito Federal        62694     767         1.22     3015268          0.02544
+         Minas Gerais        60897    1282         2.11    21168791          0.00606
 
 
 
@@ -246,15 +246,15 @@ Bellow some possible projections for the next 10 days of infected people for eac
 Deaths in each capital are growing... let's visualize how deaths are spread across some cities.
 
                   City  Total Cases  Deaths  Mortality %
-          São Paulo/SP       134984    7370         5.46
-     Rio de Janeiro/RJ        58615    6689        11.41
-          Fortaleza/CE        35899    3334         9.29
-             Manaus/AM        28449    1826         6.42
-           Salvador/BA        35837    1209         3.37
-           Brasília/DF        53996     643         1.19
-     Belo Horizonte/MG         7144     168         2.35
-           Curitiba/PR         4828     160         3.31
-       Porto Alegre/RS         2884     100         3.47
+          São Paulo/SP       142502    7743         5.43
+     Rio de Janeiro/RJ        60596    6924        11.43
+          Fortaleza/CE        37071    3387         9.14
+             Manaus/AM        28871    1847         6.40
+           Salvador/BA        38695    1311         3.39
+           Brasília/DF        62694     767         1.22
+           Curitiba/PR         6692     188         2.81
+     Belo Horizonte/MG         8080     176         2.18
+       Porto Alegre/RS         3158     118         3.74
 
 
 
