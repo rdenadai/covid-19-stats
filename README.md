@@ -74,11 +74,15 @@ Download Firefox webdriver from https://github.com/mozilla/geckodriver/releases/
 
 
 
+    
 ![png](covid-19_files/covid-19_9_0.png)
+    
 
 
 
+    
 ![png](covid-19_files/covid-19_10_0.png)
+    
 
 
 ---
@@ -86,19 +90,27 @@ Download Firefox webdriver from https://github.com/mozilla/geckodriver/releases/
 The bellow graphics show the evolution of the desease over time for some countries.
 
 
+    
 ![png](covid-19_files/covid-19_15_0.png)
+    
 
 
 
+    
 ![png](covid-19_files/covid-19_16_0.png)
+    
 
 
 
+    
 ![png](covid-19_files/covid-19_17_0.png)
+    
 
 
 
+    
 ![png](covid-19_files/covid-19_18_0.png)
+    
 
 
 #### Logarithmic Scale
@@ -106,11 +118,15 @@ The bellow graphics show the evolution of the desease over time for some countri
 Bellow some graphics in log scale of Confirmed cases for the above countries.
 
 
+    
 ![png](covid-19_files/covid-19_20_0.png)
+    
 
 
 
+    
 ![png](covid-19_files/covid-19_21_0.png)
+    
 
 
 ---
@@ -118,7 +134,9 @@ Bellow some graphics in log scale of Confirmed cases for the above countries.
 Predicting the pandemic of Corona Virus is hard, bellow is a simple demonstration of curve fitting, using 2 types (exponential and sigmoid) for estimation.
 
 
+    
 ![png](covid-19_files/covid-19_23_0.png)
+    
 
 
 ---
@@ -134,7 +152,9 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
 
 
+    
 ![png](covid-19_files/covid-19_25_1.png)
+    
 
 
     UNITED STATES
@@ -144,7 +164,9 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
 
 
+    
 ![png](covid-19_files/covid-19_26_1.png)
+    
 
 
     ITALY
@@ -154,7 +176,9 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
 
 
+    
 ![png](covid-19_files/covid-19_27_1.png)
+    
 
 
 ---
@@ -162,7 +186,9 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
 
 
+    
 ![png](covid-19_files/covid-19_29_0.png)
+    
 
 
 
@@ -184,7 +210,9 @@ Simple compilation of cases in United States.
 
 
 
+    
 ![png](covid-19_files/covid-19_32_0.png)
+    
 
 
 ---
@@ -192,7 +220,9 @@ Simple compilation of cases in United States.
 
 
 
+    
 ![png](covid-19_files/covid-19_34_0.png)
+    
 
 
 
@@ -226,19 +256,25 @@ But, the story can't be told by the entire country, one must take into account, 
 
 
 
+    
 ![png](covid-19_files/covid-19_41_0.png)
+    
 
 
 Each state tells a different story, but what about the **capitals** for some of those states?
 
 
+    
 ![png](covid-19_files/covid-19_43_0.png)
+    
 
 
 Bellow some possible projections for the next 10 days of infected people for each capital showed above.
 
 
+    
 ![png](covid-19_files/covid-19_45_0.png)
+    
 
 
 ---
@@ -258,11 +294,15 @@ Deaths in each capital are growing... let's visualize how deaths are spread acro
 
 
 
+    
 ![png](covid-19_files/covid-19_49_0.png)
+    
 
 
 
+    
 ![png](covid-19_files/covid-19_50_0.png)
+    
 
 
 Much has been talked about that people in Brazil are young, so there's little risk for the population... but if we take into account that Brazil population is one of the biggest in the world and calculating death or hospitalization based on data provided by Imperial College and China CDC, Brazil could have more than 50k deaths. This is a simplistic view... it should take into account comorbidities to calculate those numbers.
@@ -335,6 +375,8 @@ Given the above values **(from Imperial College and CDC China)** lets do a **pro
 
 
 
+    
 ![png](covid-19_files/covid-19_60_0.png)
+    
 
 

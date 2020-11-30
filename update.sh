@@ -1,14 +1,14 @@
 #!/bin/bash
 
-cd /home/pi/projects/covid19statistics/
+cd /home/rdenadai/Projetos/covid-19-stats/
 
 rm -rf ./covid-19_files/
 
-jupyter nbconvert --to notebook --ExecutePreprocessor.timeout=300 --inplace --execute covid-19.ipynb 
+jupyter nbconvert --to notebook --ExecutePreprocessor.timeout=500 --inplace --execute covid-19.ipynb 
 
-jupyter nbconvert --to markdown --ExecutePreprocessor.timeout=300 --TemplateExporter.exclude_input=True covid-19.ipynb
+jupyter nbconvert --to markdown --ExecutePreprocessor.timeout=500 --TemplateExporter.exclude_input=True covid-19.ipynb
 
-jupyter nbconvert --to html --ExecutePreprocessor.timeout=300 --TemplateExporter.exclude_input=True covid-19.ipynb
+jupyter nbconvert --to html --ExecutePreprocessor.timeout=500 --TemplateExporter.exclude_input=True covid-19.ipynb
 
 mv covid-19.html index.html
 
