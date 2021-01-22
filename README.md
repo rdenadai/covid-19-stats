@@ -31,46 +31,46 @@ Download Firefox webdriver from https://github.com/mozilla/geckodriver/releases/
 
 #### 1. World data
 
-    Last run: 2020-07-07 22:26:10.831417
+    Last run: 2021-01-22 13:10:48.648656
 
 
     --------------------
     Confirmed cases stats:
     --------------------
-    Mortality Rate : 4.88 %
-    Recovered Rate : 51.1 %
-    Confirmed Cases: 10475838
-    Recovered      : 5353272
-    Total Death    : 511253
+    Mortality Rate : 2.18 %
+    Recovered Rate : 56.31 %
+    Confirmed Cases: 83488443
+    Recovered      : 47010049
+    Total Death    : 1818336
     
     --------------------
     World Population stats:
     --------------------
-    Confirmed Cases: 0.13794 %
-    Mortality Rate : 0.00673 %
+    Confirmed Cases: 1.09925 %
+    Mortality Rate : 0.02394 %
 
 
-            Country  Confirmed  Deaths  Recovered  Mortality %  Population  Density/Pop  Urban/Pop %  Mortality/Pop %
-      United States    2635417  127417     720631         4.83   331002651           36         0.83          0.03849
-             Brazil    1402041   59594     788318         4.25   210147125           25         0.88          0.02836
-             Russia     646929    9306     411973         1.44   145934462            9         0.74          0.00638
-              India     585493   17400     347979         2.97  1380004385          464         0.35          0.00126
-     United Kingdom     314160   43815       1370        13.95    67886011          281         0.83          0.06454
-               Peru     285213    9677     174535         3.39    32971854           26         0.79          0.02935
-              Chile     279393    5688     241229         2.04    19116201           26         0.85          0.02975
-              Spain     249271   28355     150376        11.38    46754778           94         0.80          0.06065
-              Italy     240578   34767     190248        14.45    60461826          206         0.69          0.05750
-               Iran     227662   10817     188758         4.75    83992949           52         0.76          0.01288
-             Mexico     226089   27769     174538        12.28   128932753           66         0.84          0.02154
-           Pakistan     213470    4395     100802         2.06   220892340          287         0.35          0.00199
-             France     202063   29846      76399        14.77    65273511          119         0.82          0.04572
-             Turkey     199906    5131     173111         2.57    84339067          110         0.76          0.00608
-            Germany     195418    8990     178100         4.60    83783942          240         0.76          0.01073
-       Saudi Arabia     190823    1649     130766         0.86    34813871           16         0.84          0.00474
-       South Africa     151209    2657      73543         1.76    59308690           49         0.67          0.00448
-         Bangladesh     145483    1847      59624         1.27   164689383         1265         0.39          0.00112
-             Canada     106097    8650      69120         8.15    37742154            4         0.81          0.02292
-              Qatar      96088     113      81564         0.12     2881053          248         0.96          0.00392
+           Country  Confirmed  Deaths  Recovered  Mortality %  Population  Density/Pop  Urban/Pop %  Mortality/Pop %
+     United States   20032035  345955          0         1.73   331002651           36         0.83          0.10452
+            Brazil    7675973  194949    6848844         2.54   210147125           25         0.88          0.09277
+             India   10266674  148738    9860280         1.45  1380004385          464         0.35          0.01078
+            Mexico    1426094  125807    1074795         8.82   128932753           66         0.84          0.09758
+             Italy    2107166   74159    1463111         3.52    60461826          206         0.69          0.12265
+    United Kingdom    2496231   73622       5479         2.95    67886011          281         0.83          0.10845
+            France    2677666   64759     200142         2.42    65273511          119         0.82          0.09921
+            Russia    3127347   56271    2527722         1.80   145934462            9         0.74          0.03856
+              Iran    1225142   55223     988833         4.51    83992949           52         0.76          0.06575
+             Spain    1928265   50837     150376         2.64    46754778           94         0.80          0.10873
+         Argentina    1625514   43245    1426676         2.66    45195774           17         0.93          0.09568
+          Colombia    1642775   43213    1508419         2.63    50882891           46         0.80          0.08493
+              Peru    1015137   37680     951318         3.71    32971854           26         0.79          0.11428
+           Germany    1760520   33791    1350708         1.92    83783942          240         0.76          0.04033
+            Poland    1294878   28554    1036138         2.21    37846611          124         0.60          0.07545
+      South Africa    1057161   28469     879671         2.69    59308690           49         0.67          0.04800
+         Indonesia     743198   22138     611097         2.98   273523615          151         0.56          0.00809
+            Turkey    2208652   20881    2100650         0.95    84339067          110         0.76          0.02476
+           Belgium     646496   19528          0         3.02    11589623          383         0.98          0.16850
+           Ukraine    1086997   19281     736611         1.77    43733762           75         0.69          0.04409
 
 
 
@@ -147,8 +147,8 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
     BRAZIL
     --------------------
-    Taking into account 3.8%, means that it should have 1568263 cases.
-    Taking into account 2%, means that it should have 2979700 cases.
+    Taking into account 3.8%, means that it should have 5635447 cases.
+    Taking into account 2%, means that it should have 10707350 cases.
 
 
 
@@ -159,8 +159,8 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
     UNITED STATES
     --------------------
-    Taking into account 3.8%, means that it should have 3353078 cases.
-    Taking into account 2%, means that it should have 6370850 cases.
+    Taking into account 3.8%, means that it should have 10792157 cases.
+    Taking into account 2%, means that it should have 20505100 cases.
 
 
 
@@ -171,8 +171,8 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
     ITALY
     --------------------
-    Taking into account 3.8%, means that it should have 914921 cases.
-    Taking into account 2%, means that it should have 1738350 cases.
+    Taking into account 3.8%, means that it should have 2215842 cases.
+    Taking into account 2%, means that it should have 4210100 cases.
 
 
 
@@ -197,16 +197,16 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 Simple compilation of cases in United States.
 
     Province_State  Confirmed  Deaths  Mortality %
-          New York     393454   32032         8.14
-        California     231232    6082         2.63
-        New Jersey     171667   15035         8.76
-             Texas     163060    2455         1.51
-           Florida     152434    3505         2.30
-          Illinois     143185    6923         4.84
-     Massachusetts     108882    8053         7.40
-      Pennsylvania      91139    6649         7.30
-           Georgia      81291    2805         3.45
-           Arizona      79228    1645         2.08
+        California    2297039   25986         1.13
+             Texas    1772784   28066         1.58
+           Florida    1323315   21673         1.64
+          New York     978783   37983         3.88
+          Illinois     963389   17978         1.87
+              Ohio     700380    8962         1.28
+           Georgia     666452   10934         1.64
+      Pennsylvania     645390   15947         2.47
+         Tennessee     586802    6907         1.18
+    North Carolina     539545    6748         1.25
 
 
 
@@ -232,10 +232,10 @@ Simple compilation of cases in Brazil.
 
 For the entire Brazil, as of today, we have the following numbers:
 
-    Mortality Rate     : 3.99 %
-    Total Death        : 66891
-    Confirmed Cases    : 1675068
-    Mortality Rate/Pop : 0.03183 %
+    Mortality Rate     : 2.46 %
+    Total Death        : 214317
+    Confirmed Cases    : 8704658
+    Mortality Rate/Pop : 0.10198 %
 
 
 ---
@@ -243,16 +243,16 @@ For the entire Brazil, as of today, we have the following numbers:
 But, the story can't be told by the entire country, one must take into account, each state of the federation. Let's show data for each state in the federation.
 
                    UF  Total Cases  Deaths  Mortality %  Population  Mortality/Pop %
-            São Paulo       332708   16475         4.95    45919049          0.03588
-                Ceará       126142    6563         5.20     9132078          0.07187
-       Rio de Janeiro       124086   10881         8.77    17264943          0.06302
-                 Pará       118744    5169         4.35     8602865          0.06008
-             Maranhão        92088    2286         2.48     7075181          0.03231
-                Bahia        91954    2216         2.41    14873064          0.01490
-             Amazonas        79167    2952         3.73     4144597          0.07123
-           Pernambuco        66151    5234         7.91     9557071          0.05477
-     Distrito Federal        62694     767         1.22     3015268          0.02544
-         Minas Gerais        60897    1282         2.11    21168791          0.00606
+            São Paulo      1670754   50938         3.05    45919049          0.11093
+         Minas Gerais       668216   13891         2.08    21168791          0.06562
+                Bahia       553770    9760         1.76    14873064          0.06562
+       Santa Catarina       552310    6036         1.09     7164788          0.08425
+    Rio Grande do Sul       520313   10196         1.96    11377239          0.08962
+               Paraná       515464    9243         1.79    11433957          0.08084
+       Rio de Janeiro       494127   28440         5.76    17264943          0.16473
+                Ceará       359678   10299         2.86     9132078          0.11278
+                Goiás       335665    7226         2.15     7018354          0.10296
+                 Pará       316176    7470         2.36     8602865          0.08683
 
 
 
@@ -281,16 +281,16 @@ Bellow some possible projections for the next 10 days of infected people for eac
 
 Deaths in each capital are growing... let's visualize how deaths are spread across some cities.
 
-                  City  Total Cases  Deaths  Mortality %
-          São Paulo/SP       142502    7743         5.43
-     Rio de Janeiro/RJ        60596    6924        11.43
-          Fortaleza/CE        37071    3387         9.14
-             Manaus/AM        28871    1847         6.40
-           Salvador/BA        38695    1311         3.39
-           Brasília/DF        62694     767         1.22
-           Curitiba/PR         6692     188         2.81
-     Belo Horizonte/MG         8080     176         2.18
-       Porto Alegre/RS         3158     118         3.74
+                 City  Total Cases  Deaths  Mortality %
+         São Paulo/SP       448744   16855         3.76
+    Rio de Janeiro/RJ       182713   16543         9.05
+            Manaus/AM       103787    4502         4.34
+          Brasília/DF       267340    4452         1.67
+         Fortaleza/CE        91793    4262         4.64
+          Salvador/BA       120897    3300         2.73
+    Belo Horizonte/MG        78822    2104         2.67
+          Curitiba/PR        76530    2101         2.75
+      Porto Alegre/RS        77924    2048         2.63
 
 
 
@@ -339,34 +339,34 @@ Much has been talked about that people in Brazil are young, so there's little ri
 
 Given the above values **(from Imperial College and CDC China)** lets do a **projection of the possible** # of deaths in each **Age** group and given a possible interval of deaths that may occur.
 
-       Age  Population  # Hospitalization  # Critical Care  # Deaths (Imperial College)  # Deaths (China CDC)
-       0-9    29340464              29341             1468                            1                     0
-     10-19    31089140              93268             4664                            1                    10
-     20-29    34324757             411898            20595                            7                    42
-     30-39    34130660            1092182            54610                           44                   110
-     40-49    28689589            1405790            88565                          133                   355
-     50-59    23477440            2394699           292154                         1753                  3799
-     60-69    16173590            2684816           735640                        16185                 26484
-     70-79     8654924            2103147           908560                        46337                 72685
-        80     3492257             953387           675952                        62864                100041
+      Age  Population  # Hospitalization  # Critical Care  # Deaths (Imperial College)  # Deaths (China CDC)
+      0-9    29340464              29341             1468                            1                     0
+    10-19    31089140              93268             4664                            1                    10
+    20-29    34324757             411898            20595                            7                    42
+    30-39    34130660            1092182            54610                           44                   110
+    40-49    28689589            1405790            88565                          133                   355
+    50-59    23477440            2394699           292154                         1753                  3799
+    60-69    16173590            2684816           735640                        16185                 26484
+    70-79     8654924            2103147           908560                        46337                 72685
+       80     3492257             953387           675952                        62864                100041
 
 
-                           Name  Min. Deaths  Max. Deaths
-               Imperial College        25465       229185
-                      CDC China        40705       366346
-     Mean(Imperial + CDC China)        33085       297765
+                          Name  Min. Deaths  Max. Deaths
+              Imperial College        25465       229185
+                     CDC China        40705       366346
+    Mean(Imperial + CDC China)        33085       297765
 
 
-       Age  Min. Deaths  Max. Deaths
-       0-9            0            0
-     10-19            1            9
-     20-29            4           44
-     30-39           15          138
-     40-49           48          439
-     50-59          555         4996
-     60-69         4266        38402
-     70-79        11902       107119
-        80        16290       146614
+      Age  Min. Deaths  Max. Deaths
+      0-9            0            0
+    10-19            1            9
+    20-29            4           44
+    30-39           15          138
+    40-49           48          439
+    50-59          555         4996
+    60-69         4266        38402
+    70-79        11902       107119
+       80        16290       146614
 
 
 ---
