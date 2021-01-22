@@ -31,46 +31,46 @@ Download Firefox webdriver from https://github.com/mozilla/geckodriver/releases/
 
 #### 1. World data
 
-    Last run: 2020-06-27 09:50:43.311181
+    Last run: 2020-07-07 22:26:10.831417
 
 
     --------------------
     Confirmed cases stats:
     --------------------
-    Mortality Rate : 5.12 %
-    Recovered Rate : 50.33 %
-    Confirmed Cases: 9430384
-    Recovered      : 4746118
-    Total Death    : 482752
+    Mortality Rate : 4.88 %
+    Recovered Rate : 51.1 %
+    Confirmed Cases: 10475838
+    Recovered      : 5353272
+    Total Death    : 511253
     
     --------------------
     World Population stats:
     --------------------
-    Confirmed Cases: 0.12418 %
-    Mortality Rate : 0.00636 %
+    Confirmed Cases: 0.13794 %
+    Mortality Rate : 0.00673 %
 
 
             Country  Confirmed  Deaths  Recovered  Mortality %  Population  Density/Pop  Urban/Pop %  Mortality/Pop %
-      United States    2381361  121979     656161         5.12   331002651           36         0.83          0.03685
-             Brazil    1188631   53830     660469         4.53   210147125           25         0.88          0.02562
-             Russia     606043    8503     368222         1.40   145934462            9         0.74          0.00583
-              India     473105   14894     271697         3.15  1380004385          464         0.35          0.00108
-     United Kingdom     308337   43165       1345        14.00    67886011          281         0.83          0.06358
-               Peru     264689    8586     151589         3.24    32971854           26         0.79          0.02604
-              Chile     254416    4731     215093         1.86    19116201           26         0.85          0.02475
-              Spain     247086   28327     150376        11.46    46754778           94         0.80          0.06059
-              Italy     239410   34644     186111        14.47    60461826          206         0.69          0.05730
-               Iran     212501    9996     172096         4.70    83992949           52         0.76          0.01190
-             France     197885   29734      75251        15.03    65273511          119         0.82          0.04555
-             Mexico     196847   24324     148487        12.36   128932753           66         0.84          0.01887
-           Pakistan     192970    3903      81307         2.02   220892340          287         0.35          0.00177
-            Germany     192871    8928     176422         4.63    83783942          240         0.76          0.01066
-             Turkey     191657    5025     164234         2.62    84339067          110         0.76          0.00596
-       Saudi Arabia     167267    1387     112797         0.83    34813871           16         0.84          0.00398
-         Bangladesh     122660    1582      49666         1.29   164689383         1265         0.39          0.00096
-       South Africa     111796    2205      56874         1.97    59308690           49         0.67          0.00372
-             Canada     104087    8544      66533         8.21    37742154            4         0.81          0.02264
-              Qatar      90778     104      73083         0.11     2881053          248         0.96          0.00361
+      United States    2635417  127417     720631         4.83   331002651           36         0.83          0.03849
+             Brazil    1402041   59594     788318         4.25   210147125           25         0.88          0.02836
+             Russia     646929    9306     411973         1.44   145934462            9         0.74          0.00638
+              India     585493   17400     347979         2.97  1380004385          464         0.35          0.00126
+     United Kingdom     314160   43815       1370        13.95    67886011          281         0.83          0.06454
+               Peru     285213    9677     174535         3.39    32971854           26         0.79          0.02935
+              Chile     279393    5688     241229         2.04    19116201           26         0.85          0.02975
+              Spain     249271   28355     150376        11.38    46754778           94         0.80          0.06065
+              Italy     240578   34767     190248        14.45    60461826          206         0.69          0.05750
+               Iran     227662   10817     188758         4.75    83992949           52         0.76          0.01288
+             Mexico     226089   27769     174538        12.28   128932753           66         0.84          0.02154
+           Pakistan     213470    4395     100802         2.06   220892340          287         0.35          0.00199
+             France     202063   29846      76399        14.77    65273511          119         0.82          0.04572
+             Turkey     199906    5131     173111         2.57    84339067          110         0.76          0.00608
+            Germany     195418    8990     178100         4.60    83783942          240         0.76          0.01073
+       Saudi Arabia     190823    1649     130766         0.86    34813871           16         0.84          0.00474
+       South Africa     151209    2657      73543         1.76    59308690           49         0.67          0.00448
+         Bangladesh     145483    1847      59624         1.27   164689383         1265         0.39          0.00112
+             Canada     106097    8650      69120         8.15    37742154            4         0.81          0.02292
+              Qatar      96088     113      81564         0.12     2881053          248         0.96          0.00392
 
 
 
@@ -147,8 +147,8 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
     BRAZIL
     --------------------
-    Taking into account 3.8%, means that it should have 1416578 cases.
-    Taking into account 2%, means that it should have 2691500 cases.
+    Taking into account 3.8%, means that it should have 1568263 cases.
+    Taking into account 2%, means that it should have 2979700 cases.
 
 
 
@@ -159,8 +159,8 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
     UNITED STATES
     --------------------
-    Taking into account 3.8%, means that it should have 3209973 cases.
-    Taking into account 2%, means that it should have 6098950 cases.
+    Taking into account 3.8%, means that it should have 3353078 cases.
+    Taking into account 2%, means that it should have 6370850 cases.
 
 
 
@@ -171,8 +171,8 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 
     ITALY
     --------------------
-    Taking into account 3.8%, means that it should have 911684 cases.
-    Taking into account 2%, means that it should have 1732200 cases.
+    Taking into account 3.8%, means that it should have 914921 cases.
+    Taking into account 2%, means that it should have 1738350 cases.
 
 
 
@@ -197,16 +197,16 @@ The mortality for Covid-19 are said to be something like 3.8%, but previous calc
 Simple compilation of cases in United States.
 
     Province_State  Confirmed  Deaths  Mortality %
-          New York     389666   31257         8.02
-        California     195925    5725         2.92
-        New Jersey     169892   13076         7.70
-          Illinois     138540    6770         4.89
-             Texas     128132    2270         1.77
-           Florida     109014    3281         3.01
-     Massachusetts     107611    7937         7.38
-      Pennsylvania      87685    6518         7.43
-           Georgia      69381    2698         3.89
-          Michigan      68555    6114         8.92
+          New York     393454   32032         8.14
+        California     231232    6082         2.63
+        New Jersey     171667   15035         8.76
+             Texas     163060    2455         1.51
+           Florida     152434    3505         2.30
+          Illinois     143185    6923         4.84
+     Massachusetts     108882    8053         7.40
+      Pennsylvania      91139    6649         7.30
+           Georgia      81291    2805         3.45
+           Arizona      79228    1645         2.08
 
 
 
@@ -232,27 +232,27 @@ Simple compilation of cases in Brazil.
 
 For the entire Brazil, as of today, we have the following numbers:
 
-    Mortality Rate     : 4.38 %
-    Total Death        : 56110
-    Confirmed Cases    : 1280513
-    Mortality Rate/Pop : 0.0267 %
+    Mortality Rate     : 3.99 %
+    Total Death        : 66891
+    Confirmed Cases    : 1675068
+    Mortality Rate/Pop : 0.03183 %
 
 
 ---
 
 But, the story can't be told by the entire country, one must take into account, each state of the federation. Let's show data for each state in the federation.
 
-                 UF  Total Cases  Deaths  Mortality %  Population  Mortality/Pop %
-          São Paulo       258508   13966         5.40    45919049          0.03041
-     Rio de Janeiro       108497    9587         8.84    17264943          0.05553
-              Ceará       105270    5962         5.66     9132078          0.06529
-               Pará        99313    4834         4.87     8602865          0.05619
-           Maranhão        76698    1906         2.49     7075181          0.02694
-           Amazonas        68220    2739         4.01     4144597          0.06609
-              Bahia        56422    1642         2.91    14873064          0.01104
-         Pernambuco        55804    4610         8.26     9557071          0.04824
-            Paraíba        42832     864         2.02     4018127          0.02150
-     Espírito Santo        41652    1507         3.62     4018650          0.03750
+                   UF  Total Cases  Deaths  Mortality %  Population  Mortality/Pop %
+            São Paulo       332708   16475         4.95    45919049          0.03588
+                Ceará       126142    6563         5.20     9132078          0.07187
+       Rio de Janeiro       124086   10881         8.77    17264943          0.06302
+                 Pará       118744    5169         4.35     8602865          0.06008
+             Maranhão        92088    2286         2.48     7075181          0.03231
+                Bahia        91954    2216         2.41    14873064          0.01490
+             Amazonas        79167    2952         3.73     4144597          0.07123
+           Pernambuco        66151    5234         7.91     9557071          0.05477
+     Distrito Federal        62694     767         1.22     3015268          0.02544
+         Minas Gerais        60897    1282         2.11    21168791          0.00606
 
 
 
@@ -282,15 +282,15 @@ Bellow some possible projections for the next 10 days of infected people for eac
 Deaths in each capital are growing... let's visualize how deaths are spread across some cities.
 
                   City  Total Cases  Deaths  Mortality %
-          São Paulo/SP       121163    6880         5.68
-     Rio de Janeiro/RJ        55152    6264        11.36
-          Fortaleza/CE        34027    3212         9.44
-             Manaus/AM        26783    1747         6.52
-           Salvador/BA        27666    1046         3.78
-           Brasília/DF        41326     532         1.29
-           Curitiba/PR         3093     122         3.94
-     Belo Horizonte/MG         4977     109         2.19
-       Porto Alegre/RS         2383      76         3.19
+          São Paulo/SP       142502    7743         5.43
+     Rio de Janeiro/RJ        60596    6924        11.43
+          Fortaleza/CE        37071    3387         9.14
+             Manaus/AM        28871    1847         6.40
+           Salvador/BA        38695    1311         3.39
+           Brasília/DF        62694     767         1.22
+           Curitiba/PR         6692     188         2.81
+     Belo Horizonte/MG         8080     176         2.18
+       Porto Alegre/RS         3158     118         3.74
 
 
 
